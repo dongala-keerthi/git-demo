@@ -7,5 +7,3 @@ form lines
 shield by shield
 I love DSA
 hey there
-
--------------------
